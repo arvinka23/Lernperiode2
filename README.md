@@ -5,3 +5,4 @@ Mein Plan ist, in diesen 10 Wochen 3 Projekte zu realisieren. In den ersten 5 Wo
 Arbeitspakete 24.10.2023:
 Arbeitspakete 1, 2 und 3 : Heute werde ich nur auf meinem Eportfolio von Modul 319 arbeiten da wir es nächste woche sie abegeben müssen und ich noch nicht fertig bin.
 
+_______________________________________________________________________________________________________________________________________________________________________
