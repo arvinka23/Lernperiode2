@@ -19,5 +19,6 @@ Zusammenfassung: Heute habe ich mein erstes Projekt in 1 und halb stunden fertig
 
 ---
 ## Arbeitspakete 07.11.2023
-Arbeitspaket 1: die zweite Projekt beginnen, welche tiktok toe ist
-Arbeitspaket 2: versuchen erste programme zuschreiben welche if schleifen sind
+Arbeitspaket 1: Beginnen Sie mit dem zweiten Projekt, welches "Tic-Tac-Toe" ist.
+Arbeitspaket 2: Schreiben Sie die ersten Programme, die "if"-Anweisungen, Schleifen und "switch-case"-Anweisungen enthalten.
+Arbeitspaket 3: Schließen Sie die Lernziele für Abschnitt 5 ab.
