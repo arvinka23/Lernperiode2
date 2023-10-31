@@ -13,6 +13,11 @@ Zusammenfassung: Heute habe ich am E-Portfolio gearbeitet und Lernziel 3 in 3 Le
 Arbeitspaket 1: Mein erstes Projekt beginnen und versuchen, die Variablen zu definieren.
 Arbeitspaket 2: Versuchen, switch- und if-Anweisungen zu programmieren und das Programm zu 50% fertigzustellen.
 Arbeitspakete 3: Arbeitspaket 3: An den Lernzielen 6, die das Thema Fehler behandeln, arbeiten.
-Arbeitspaket 4: Lernziele 6 abschließen.
+Arbeitspaket 4: Lernziele 4 abschließen.
+
+Zusammenfassung: Heute habe ich mein erstes Projekt in 1 und halb stunden fertiggemacht und nacher an e-portfolio gearbeitet.
 
 ---
+## Arbeitspakete 07.11.2023
+Arbeitspaket 1: die zweite Projekt beginnen, welche tiktok toe ist
+Arbeitspaket 2: versuchen erste programme zuschreiben welche if schleifen sind
