@@ -23,4 +23,11 @@ Arbeitspaket 1: ich Beginne mit dem zweiten Projekt, welches "Tic-Tac-Toe" ist.
 Arbeitspaket 2: ich Schreibe die ersten Programme, die "if"-Anweisungen, Schleifen und "switch-case"-Anweisungen enthalten.
 Arbeitspaket 3: ich Schliesse  die Lernziele 5 ab.
 
-Zusammenfassung: Heute habe ich wie geplant gearbeitet, und ich vermute, dass mein Tic-Tac-Toe-Programm zu 50 Prozent fertig ist. Ausserdem habe ich meine fünften Lernziele für E-Portfolio erfolgreich abgeschlossen.
+Zusammenfassung: Heute habe ich wie geplant gearbeitet, und ich vermute, dass mein Tic-Tac-Toe-Programm zu 50 Prozent fertig ist. Ausserdem habe ich meine fünften Lernziele für E-Portfolio erfolgreich 
+abgeschlossen.
+
+---
+## Arbeitspakete 28.11.2023
+Arbeitspaket 1: weil ich letzte 2 wochen nicht in der Schule war, will ich dieses mal an e portfolio von modul 162. in erste Arbeit Paket suche ich welche tabelle ich überhaupt nehmen soll. und welche informationen für mich nötig sind.
+Arbeitspaket 2: jetzt werde ich daten analysieren und resultate hinschreiben 
+Arbeitspaket 3: dann werde ich meine resultate im wörter umwandeln.
