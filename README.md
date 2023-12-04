@@ -27,6 +27,10 @@ Zusammenfassung: Heute habe ich wie geplant gearbeitet, und ich vermute, dass me
 abgeschlossen.
 
 ---
+## Arbeitspakete 05.11.2023
+Arbeitspaket 1 ,Arbeitspaket 2 und Arbeitspaket 3: Wir werden an unserem Projekt arbeiten und es abschließen. Ich habe mein Programm bereits fertiggestellt und werde den anderen helfen.
+
+---
 ## Arbeitspakete 28.11.2023
 Arbeitspaket 1: weil ich letzte 2 wochen nicht in der Schule war, will ich dieses mal an e portfolio von modul 162. in erste Arbeit Paket suche ich welche tabelle ich überhaupt nehmen soll. und welche informationen für mich nötig sind.
 Arbeitspaket 2: jetzt werde ich daten analysieren und resultate hinschreiben 
