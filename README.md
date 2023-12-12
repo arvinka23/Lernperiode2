@@ -45,3 +45,5 @@ wir haben heute unser Projekt fertig gemacht und werden wir es am Freitag testen
 Arbeitspaket 1: ich beginne mit meinem grosse Projekt ein schach spiel programmieren ich versuche zuerst alle ideen sammeln und verstehen wie man das machen kann
 Arbeitspaket 2: ich werde beginnen mit programmieren.
 Arbeitspaket 3: ich werde advent of kalender machen.
+
+Weil ich heute aufgrund von OPL unterricht weniger Zeit hatte, habe ich nur an meinem neuen Projekt gearbeitet. Da ich ursprünglich vorhatte, an zwei verschiedenen Projekten zu arbeiten, um es einfacher zu gestalten, habe ich die Blank Solution verwendet.
