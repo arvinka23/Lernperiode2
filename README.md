@@ -47,3 +47,11 @@ Arbeitspaket 2: ich werde beginnen mit programmieren.
 Arbeitspaket 3: ich werde advent of kalender machen.
 
 Weil ich heute aufgrund von OPL unterricht weniger Zeit hatte, habe ich nur an meinem neuen Projekt gearbeitet. Da ich ursprünglich vorhatte, an zwei verschiedenen Projekten zu arbeiten, um es einfacher zu gestalten, habe ich die Blank Solution verwendet.
+
+---
+
+## Arbeitspakete 19.12.2023
+Arbeitspaket 1: ich werde an modul 117 arbeiten und aufgaben 09 und 12 fertig lösen
+Arbeitspaket 2: ich werde an modul 117 arbeiten und aufgaben 09 und 12 fertig lösen
+Arbeitspaket 3: ich werde an meinem Projekt weiterarbeiten.
+
