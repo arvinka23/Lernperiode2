@@ -55,3 +55,10 @@ Arbeitspaket 1: ich werde an modul 117 arbeiten und aufgaben 09 und 12 fertig l�
 Arbeitspaket 2: ich werde an modul 117 arbeiten und aufgaben 09 und 12 fertig lösen
 Arbeitspaket 3: ich werde an meinem Projekt weiterarbeiten.
 
+Ich habe heute geschafft in modul 117 3 aufgaben zu lösen und mein grob plannung anzuschauen.
+
+
+---
+Reflexion:
+
+Da ich zweimal fehlte und einmal an verschiedenen Modulen arbeitete, konnte ich leider mein großes Projekt, ein Schachspiel, nicht rechtzeitig fertigstellen. Der Fortschritt beträgt lediglich 20 Prozent. Dennoch plane ich, die verbleibende Zeit während der Weihnachtsferien zu nutzen, um das Projekt abzuschliessen. Zudem beabsichtige ich, in den nächsten drei Wochen nach den Ferien ein neues Projekt zu starten. Trotz der bisherigen Herausforderungen bin ich zuversichtlich, dass ich meine Zeit effizient nutzen kann und gut gearbeitet habe.
